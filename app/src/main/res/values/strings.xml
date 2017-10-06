@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DongYouDic</string>
+    <string name="title_activity_phrases">PhrasesActivity</string>
+    <string name="title_activity_numbers">NumbersActivity</string>
+    <string name="title_activity_family">FamilyActivity</string>
+    <string name="title_activity_colors">ColorsActivity</string>
+    <string name="family">Family</string>
+</resources>
